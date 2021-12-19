@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rakowskii
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning C#/.NET
+- 📫 How to reach me mateusz.rak0@o2.pl
